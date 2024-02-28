@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @impoteto
-- 👀 I’m interested in general linux, python
+- 👀 I’m interested in general linux, all things android and python
 - 🌱 I’m currently learning flask for python and bash scripting
 - 💞️ Currently, I don't have any specific preference on collaboration , at most, I would like to do bug reports and such
 - 📫 How to reach me: email:jinakudama@gmail.com
